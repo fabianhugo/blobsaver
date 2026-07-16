@@ -1,4 +1,4 @@
-Help support this project by ⭐️'ing it; [Donations](https://www.paypal.me/airsqrd) also appreciated!
+Help support this project by ⭐️'ing it; [Donations](https://www.paypal.me/airsqrd) also appreciated!  
 
 # blobsaver [![GitHub All Releases](https://img.shields.io/github/downloads/airsquared/blobsaver/total.svg)](https://github.com/airsquared/blobsaver/releases) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/0d4fdc1daca5402a8c57efc3bef73d31)](https://www.codacy.com/gh/airsquared/blobsaver/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=airsquared/blobsaver&amp;utm_campaign=Badge_Grade)
 
